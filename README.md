@@ -15,6 +15,6 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=yadlaudaykiran&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=yadlaudaykiran&icon=0&color=0)]([(https://mycyberpunkportfolio.netlify.app/)])
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
